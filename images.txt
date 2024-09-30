@@ -1,5 +1,5 @@
 nginx:1.26.2-alpine3.20
-
+eugenmayer/jodconverter:rest-0.2.0
 
 
 
